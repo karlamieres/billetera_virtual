@@ -1,0 +1,26 @@
+
+.last-transactions {
+    margin-bottom: 20px;
+}
+
+.transaction-item {
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.transaction-item p {
+    margin: 0;
+    font-weight: bold;    
+}
+
+.transaction-amount {
+    float: right;
+    font-weight: bold;
+}
+
+.btn-primary {
+    margin-top: 20px;
+}
